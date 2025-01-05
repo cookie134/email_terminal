@@ -18,12 +18,6 @@
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
     {
-        "from": "cookie134",
-        "to": ["蓬莱","a"],
-        "title": "4.蓬莱我爱你",
-        "body": "蓬莱我爱你蓬莱我爱你蓬莱我爱你蓬莱我爱你蓬莱我爱你蓬莱我爱你蓬莱我爱你"
-    },
-    {
         "from": "Mike",
         "to": ["admin"],
         "title": "wtf are you kidding me?测试",
