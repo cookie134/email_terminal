@@ -21,6 +21,6 @@
         "from": "Mike",
         "to": ["admin"],
         "title": "wtf are you kidding me?测试",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk.测试一下"
     }
 ]
